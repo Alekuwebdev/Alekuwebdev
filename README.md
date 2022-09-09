@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![](img/html.jpg)
 ![](img/CSS3.jpg.png)
 ![](img/bootstrap.jpg)
-<!--![](img/sass.png)
+![](img/sass.png)
 ![](img/javascript.png)
 ![](img/react.png)
 ![](img/node.js.png)
