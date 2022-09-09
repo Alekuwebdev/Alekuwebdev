@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 
 [![Linkedin](img/LINKEDIN_ICON_TRANSPARENT_50.gif)](https://www.linkedin.com/in/alecu-gajos-1b8477232, "Alecu Gajos")
 ![](img/SocialsSmaller.gif)
+
+### Languages and Tools:
+
+
