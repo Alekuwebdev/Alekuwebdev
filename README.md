@@ -24,4 +24,17 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
+![](img/visual-studio.png)
 ![](img/html.jpg)
+![](img/CSS3.png)
+![](img/bootstrap.png)
+![](img/sass.png)
+![](img/javascript.png)
+![](img/react.png)
+![](img/node.js.png)
+![](img/express.js.png)
+![](img/Express.png)
+![](img/mongoDB.png)
+![](img/git.png)
+![](img/Gimp.png)
+![](img/figma.png)
