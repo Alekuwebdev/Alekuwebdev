@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ![](img/visual-studio.png)
 ![](img/html.jpg)
-![](img/CSS3.png)
+![](img/CSS3.jpg)
 <!--![](img/bootstrap.png)
 ![](img/sass.png)
 ![](img/javascript.png)
