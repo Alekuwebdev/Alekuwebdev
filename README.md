@@ -3,7 +3,7 @@
 [![Linkedin](img/LINKEDIN_ICON_TRANSPARENT_50.gif)](https://www.linkedin.com/in/alecu-gajos-1b8477232, "Alecu Gajos")
 ![](img/SocialsSmaller.gif)
 
-## I’m a Husband, Father and Developer
+## I’m a Husband, Father and Junior Developer
 
 **Alekuwebdev/Alekuwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
