@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Alecu.
 
-[![Linkedin](img/LINKEDIN_ICON_TRANSPARENT_50.gif)](https://www.linkedin.com/in/alecu-gajos-1b8477232, "Alecu Gajos")
-![](img/SocialsSmaller.gif)
 
 ## I’m a Husband, Father and Junior Developer.
 
@@ -18,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Linkedin](img/LINKEDIN_ICON_TRANSPARENT_50.gif)](https://www.linkedin.com/in/alecu-gajos-1b8477232, "Alecu Gajos")
+![](img/SocialsSmaller.gif)
