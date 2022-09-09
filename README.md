@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Alecu.
 
 [![Linkedin](img/LINKEDIN_ICON_TRANSPARENT_50.gif)](https://www.linkedin.com/in/alecu-gajos-1b8477232, "Alecu Gajos")
-![](img/5f284770bcf93d220f5f6476_NF_SocialsSmaller2.gif)
+![](img/SocialsSmaller.gif)
 
 **Alekuwebdev/Alekuwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
