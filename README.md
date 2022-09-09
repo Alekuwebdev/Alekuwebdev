@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alecu.
 
-
+<img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif">
 [![Linkedin](https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif)](https://www.linkedin.com/in/alecu-gajos-1b8477232, "Alecu Gajos")
 
 **Alekuwebdev/Alekuwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
