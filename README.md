@@ -25,13 +25,16 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 ![](img/visual-studio.png)
+
 ![](img/html.jpg)
 ![](img/CSS3.jpg.png)
-![](img/bootstrap.jpg)
 ![](img/sass.png)
-![](img/react.jpg)
+![](img/bootstrap.jpg)
 
 ![](img/javascript.jpg)
+
+![](img/react.jpg)
+
 ![](img/node.js.png)
 ![](img/express.jpg)
 ![](img/Express.jpg)
