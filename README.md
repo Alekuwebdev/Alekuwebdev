@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-![](img/visual-studio.jp)
+![](img/visual-studio.jpg)
 
 ![](img/html.jpg)
 ![](img/CSS3.jpg.png)
@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 ![](img/mongoDB.png)
 ![](img/git.png)
 
-![](img/Gimp.png)
+![](img/Gimp.jpg)
 ![](img/figma.jpg)
