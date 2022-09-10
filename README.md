@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### You can contact me anytime here:
 
-[![Linkedin](img/372102050_LINKEDIN_ICON.gif)](https://www.linkedin.com/in/alecu-gajos-1b8477232, "Alecu Gajos")
+[![Linkedin](img/LINKEDIN_ICON_TRANSPARENT_50.gif)](https://www.linkedin.com/in/alecu-gajos-1b8477232, "Alecu Gajos")
 ![](img/SocialsSmaller.gif)
 
 ### Languages and Tools:
