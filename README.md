@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![](img/javascript.jpg)
 ![](img/react.jpg)
 ![](img/node.js.png)
-![](img/express.js.png)
+![](img/express.jpg)
 ![](img/Express.jpg)
 ![](img/mongoDB.png)
 ![](img/git.png)
