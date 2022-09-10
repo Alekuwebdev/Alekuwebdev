@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 ![](img/CSS3.jpg.png)
 ![](img/bootstrap.jpg)
 ![](img/sass.png)
-![](img/javascript.jpg)
 ![](img/react.jpg)
+
+![](img/javascript.jpg)
 ![](img/node.js.png)
 ![](img/express.jpg)
 ![](img/Express.jpg)
