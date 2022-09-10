@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![](img/bootstrap.jpg)
 ![](img/sass.png)
 ![](img/javascript.jpg)
-![](img/react.jpg)
+![](img/)
 ![](img/node.js.png)
 ![](img/express.jpg)
 ![](img/Express.jpg)
