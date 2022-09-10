@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 ![](img/bootstrap.jpg)
 
 ![](img/javascript.jpg)
-
 ![](img/react.jpg)
 
 ![](img/node.js.png)
