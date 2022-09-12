@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-![](img/visual-studio.jpg)
+![](img/)
 
 ![](img/html.jpg)
 ![](img/CSS3.jpg.png)
