@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![](img/sass-logo.jpg)
 ![](img/bootstrap.jpg)
 
-![](img/javascript.jpg)
+![](img/)
 ![](img/react.jpg)
 
 ![](img/node.js.png)
