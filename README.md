@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 ![](img/MongoDB.jpg)
 ![](img/git.png)
 
-![](img/Gimp.jpg)
+![](img/Gimp.jp)
 ![](img/figma.jpg)
