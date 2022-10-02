@@ -5,10 +5,11 @@
 
 **Alekuwebdev/Alekuwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My projects and
+My projects
+
 [Porfolio](https://statuesque-douhua-0efb45.netlify.app/)
 
-https://dciprojekt.netlify.app/
+[Firs Project](https://dciprojekt.netlify.app/)
 
 <!-- Here are some ideas to get you started:
 
