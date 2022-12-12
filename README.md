@@ -23,7 +23,8 @@
 
 [Carousel](https://alekuwebdev.github.io/Carousel/)
 
-[]()
+[Cat and mouse](https://alekuwebdev.github.io/Cat-and-mouse/)
+
 []()
 []()
 []()
