@@ -29,8 +29,8 @@
 
 [Cat and mouse](https://alekuwebdev.github.io/Cat-and-mouse/)
 
+[Slider](https://alekuwebdev.github.io/Slider/)
 
-[]()
 []()
 []()
 []()
