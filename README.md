@@ -15,6 +15,8 @@
 
 [Victoria-Site](https://alekuwebdev.github.io/Victoria-Site/)
 
+[HIKING](https://alekuwebdev.github.io/HIKING/)
+
 [Sprite-Animation](https://alekuwebdev.github.io/Sprite-Animation/)
 
 [Penny-animation](https://alekuwebdev.github.io/Penny-animation/)
