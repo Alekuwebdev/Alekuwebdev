@@ -11,6 +11,8 @@
 
 [Firs Project](https://dciprojekt.netlify.app/)
 
+[Travel](https://alekuwebdev.github.io/Travel/)
+
 [Sprite-Animation](https://alekuwebdev.github.io/Sprite-Animation/)
 
 [Penny-animation](https://alekuwebdev.github.io/Penny-animation/)
