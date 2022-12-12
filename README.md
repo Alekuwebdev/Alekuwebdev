@@ -20,6 +20,16 @@
 [Animation-of-squares](https://alekuwebdev.github.io/Animation-of-squares/)
 
 [Buttons](https://alekuwebdev.github.io/Buttons/)
+
+[Carousel](https://alekuwebdev.github.io/Carousel/)
+
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
 []()
 []()
 []()
