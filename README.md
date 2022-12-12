@@ -17,6 +17,8 @@
 
 [HIKING](https://alekuwebdev.github.io/HIKING/)
 
+[Web-dev-freelance](https://alekuwebdev.github.io/Web-dev-freelance/)
+
 [Sprite-Animation](https://alekuwebdev.github.io/Sprite-Animation/)
 
 [Penny-animation](https://alekuwebdev.github.io/Penny-animation/)
