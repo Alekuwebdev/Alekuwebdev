@@ -17,6 +17,8 @@
 
 [Ball-Animation](https://alekuwebdev.github.io/Ball-Animation/)
 
+[Animation-of-squares](https://alekuwebdev.github.io/Animation-of-squares/)
+
 [Recipies Project](https://recipies2022.herokuapp.com/)
 
 <!-- Here are some ideas to get you started:
