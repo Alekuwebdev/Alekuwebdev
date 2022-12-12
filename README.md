@@ -13,7 +13,7 @@
 
 [Sprite-Animation](https://alekuwebdev.github.io/Sprite-Animation/)
 
-[Penny-animation]()
+[Penny-animation](https://alekuwebdev.github.io/Penny-animation/)
 
 [Recipies Project](https://recipies2022.herokuapp.com/)
 
