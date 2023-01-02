@@ -9,6 +9,8 @@
 
 [Porfolio](https://statuesque-douhua-0efb45.netlify.app/)
 
+[Recipies Project](https://recipies-8ojj.onrender.com)
+
 [Firs Project](https://dciprojekt.netlify.app/)
 
 [Travel](https://alekuwebdev.github.io/Travel/)
@@ -43,7 +45,7 @@
 []()
 []()
 
-[Recipies Project](https://recipies-8ojj.onrender.com)
+
 
 <!-- Here are some ideas to get you started:
 
