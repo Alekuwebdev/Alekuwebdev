@@ -43,7 +43,7 @@
 []()
 []()
 
-[Recipies Project](https://recipies2022.herokuapp.com/)
+[Recipies Project](https://recipies-8ojj.onrender.com)
 
 <!-- Here are some ideas to get you started:
 
