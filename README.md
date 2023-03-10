@@ -9,7 +9,7 @@
 
 [Porfolio](https://statuesque-douhua-0efb45.netlify.app/)
 
-[Auth_To_Do](https://bespoke-unicorn-c72030.netlify.app/intropage)
+[Auth_To_Do](https://bespoke-unicorn-c72030.netlify.app)
 
 [Recipies Project](https://recipies-8ojj.onrender.com)
 
