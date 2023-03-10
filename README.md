@@ -11,7 +11,7 @@
 
 [Auth_To_Do](https://bespoke-unicorn-c72030.netlify.app)
 
-[Recipies Project](https://recipies-8ojj.onrender.com)
+[Recipies Project](https://clumsy-tiara-hen.cyclic.app/)
 
 [Firs Project](https://dciprojekt.netlify.app/)
 
