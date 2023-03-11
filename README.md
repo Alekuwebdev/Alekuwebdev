@@ -90,4 +90,4 @@
 ![]()
 
 
-![waving-hand-joypixels](https://user-images.githubusercontent.com/89197029/224481523-31e1a43b-3ad2-4826-9fb2-fc7accab8211.gif width="250" height="250")
+![waving-hand-joypixels](https://user-images.githubusercontent.com/89197029/224481523-31e1a43b-3ad2-4826-9fb2-fc7accab8211.gif {width="250" height="250"})
