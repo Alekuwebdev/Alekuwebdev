@@ -34,11 +34,11 @@
 
 [Buttons](https://alekuwebdev.github.io/Buttons/)
 
-[Carousel](https://alekuwebdev.github.io/Carousel/)
+<!-- [Carousel](https://alekuwebdev.github.io/Carousel/) -->
 
 [Cat and mouse](https://alekuwebdev.github.io/Cat-and-mouse/)
 
-[Slider](https://alekuwebdev.github.io/Slider/)
+<!-- [Slider](https://alekuwebdev.github.io/Slider/) -->
   
 </details>
 
