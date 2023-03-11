@@ -26,7 +26,7 @@
 
 [Sprite-Animation](https://alekuwebdev.github.io/Sprite-Animation/)
 
-[Penny-animation](https://alekuwebdev.github.io/Penny-animation/)
+<!-- [Penny-animation](https://alekuwebdev.github.io/Penny-animation/) -->
 
 [Ball-Animation](https://alekuwebdev.github.io/Ball-Animation/)
 
