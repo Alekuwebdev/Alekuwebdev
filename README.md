@@ -28,7 +28,7 @@
 
 <!-- [Penny-animation](https://alekuwebdev.github.io/Penny-animation/) -->
 
-[Ball-Animation](https://alekuwebdev.github.io/Ball-Animation/)
+<!-- [Ball-Animation](https://alekuwebdev.github.io/Ball-Animation/) -->
 
 [Animation-of-squares](https://alekuwebdev.github.io/Animation-of-squares/)
 
