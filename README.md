@@ -3,10 +3,11 @@
 
 ## I’m Alecu Gajos a Full Stack Web Developer.
 
-<sumary>
+<details>
+  <summary>
+    ### My projects
+  </summary>
 
-</sumary>
-### My projects
 
 [Porfolio](https://statuesque-douhua-0efb45.netlify.app/)
 
@@ -39,7 +40,7 @@
 [Cat and mouse](https://alekuwebdev.github.io/Cat-and-mouse/)
 
 [Slider](https://alekuwebdev.github.io/Slider/)
-
+</details>
 
 <!-- Here are some ideas to get you started:
 
