@@ -49,7 +49,16 @@
 
 My Skills
 
-[![HTML5 Badge](https://img.shields.io/badge/-HTML5-black?style=flat&labelColor=black&logo=HTML5&logoColor=#E34F26)]()  [![CSS3 Badge](https://img.shields.io/badge/-CSS3-black?style=flat&labelColor=black&logo=CSS3&logoColor=#1572B6)]()
+[![HTML5 Badge](https://img.shields.io/badge/-HTML5-black?style=flat&labelColor=black&logo=HTML5&logoColor=#E34F26)]() [![CSS3 Badge](https://img.shields.io/badge/-CSS3-black?style=flat&labelColor=black&logo=CSS3&logoColor=#1572B6)]() [![Sass Badge](https://img.shields.io/badge/-Sass-black?style=flat&labelColor=black&logo=Sass&logoColor=#CC6699)]() [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-black?style=flat&labelColor=black&logo=Bootstrap&logoColor=#7952B3)]() [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat&labelColor=black&logo=JavaScript&logoColor=#F7DF1E)]()  
+
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-black?style=flat&labelColor=black&logo=CSS3&logoColor=#1572B6)]()  
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-black?style=flat&labelColor=black&logo=CSS3&logoColor=#1572B6)]()  
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-black?style=flat&labelColor=black&logo=CSS3&logoColor=#1572B6)]()  
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-black?style=flat&labelColor=black&logo=CSS3&logoColor=#1572B6)]()  
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-black?style=flat&labelColor=black&logo=CSS3&logoColor=#1572B6)]()  
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-black?style=flat&labelColor=black&logo=CSS3&logoColor=#1572B6)]()  
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-black?style=flat&labelColor=black&logo=CSS3&logoColor=#1572B6)]()  
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-black?style=flat&labelColor=black&logo=CSS3&logoColor=#1572B6)]()
 
 
 <!-- Here are some ideas to get you started:
