@@ -39,15 +39,6 @@
 
 [Slider](https://alekuwebdev.github.io/Slider/)
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-
-
 
 <!-- Here are some ideas to get you started:
 
@@ -89,5 +80,5 @@
 
 ![]()
 
-<img src="https://user-images.githubusercontent.com/89197029/224481523-31e1a43b-3ad2-4826-9fb2-fc7accab8211.gif"  >
+<img src="https://user-images.githubusercontent.com/89197029/224481523-31e1a43b-3ad2-4826-9fb2-fc7accab8211.gif" width="28" alt="hi" >
 
