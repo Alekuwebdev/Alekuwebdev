@@ -4,7 +4,7 @@
 ## I’m Alecu Gajos a Full Stack Web Developer.
 
 <sumary>
-hallo
+
 </sumary>
 ### My projects
 
