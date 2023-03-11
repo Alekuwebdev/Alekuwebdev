@@ -85,7 +85,7 @@
 ![](img/git.png)
 
 ![](img/gimp.jpg)
-![](img/figma.jpg width="200")
+![](img/figma.jpg | width="200")
 
 ![]()
 
