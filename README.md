@@ -44,10 +44,12 @@
 
 :mailbox: You can contact me anytime here:
 
-[![Mail Badge](https://img.shields.io/badge/-Alecu_Gajos-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alecugajos1@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Alecu_Gajos-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alecu-gajos-1b8477232)
+[![Mail Badge](https://img.shields.io/badge/-Alecu_Gajos-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alecugajos1@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Alecu_Gajos-0e76a8?style=flat&labelColor=#E34F26&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alecu-gajos-1b8477232)
 
 
 My Skills
+
+[![HTML5 Badge](https://img.shields.io/badge/-HTML5-black?style=flat&labelColor=black&logo=HTML5&logoColor=#E34F26)]()  [![CSS3 Badge](https://img.shields.io/badge/-CSS3-black?style=flat&labelColor=black&logo=CSS3&logoColor=#1572B6)]()
 
 
 <!-- Here are some ideas to get you started:
