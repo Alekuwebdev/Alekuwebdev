@@ -1,4 +1,4 @@
-# Hi there <img src="https://user-images.githubusercontent.com/89197029/224481523-31e1a43b-3ad2-4826-9fb2-fc7accab8211.gif" width="28" margin-right="20" alt="hi"> I'm Alecu.
+# Hi there <img src="https://user-images.githubusercontent.com/89197029/224481523-31e1a43b-3ad2-4826-9fb2-fc7accab8211.gif" width="28" alt="hi"> I'm Alecu.
 
 
 
@@ -49,7 +49,7 @@
     You can contact me
   </summary>
   
-[<img src="https://user-images.githubusercontent.com/89197029/224483854-831178c9-465b-4cb8-93a9-df47d5f0f4f8.gif" width="28" alt="email">](https://www.linkedin.com/in/alecu-gajos-1b8477232)[E-mail](https://www.linkedin.com/in/alecu-gajos-1b8477232)
+[<img src="https://user-images.githubusercontent.com/89197029/224483854-831178c9-465b-4cb8-93a9-df47d5f0f4f8.gif" width="28" margin-right="20" alt="email">](https://www.linkedin.com/in/alecu-gajos-1b8477232)[E-mail](https://www.linkedin.com/in/alecu-gajos-1b8477232)
   
 
 <!-- Here are some ideas to get you started:
