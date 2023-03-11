@@ -48,7 +48,9 @@
     You can contact me
   </summary>
   
-  [<img src="https://user-images.githubusercontent.com/89197029/224483854-831178c9-465b-4cb8-93a9-df47d5f0f4f8.gif" width="48" alt="email">[Email]](https://www.linkedin.com/in/alecu-gajos-1b8477232)
+  [<img src="https://user-images.githubusercontent.com/89197029/224483854-831178c9-465b-4cb8-93a9-df47d5f0f4f8.gif" width="48" alt="email">Email](https://www.linkedin.com/in/alecu-gajos-1b8477232)
+  [<img src="https://user-images.githubusercontent.com/89197029/224484603-eaa66353-c3fe-440a-85bf-81288518f550.gif
+" width="48" alt="email"]()
 </details>
 
 <!-- Here are some ideas to get you started:
