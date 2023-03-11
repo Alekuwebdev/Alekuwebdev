@@ -44,7 +44,7 @@
 
 :mailbox: You can contact me anytime here:
 
-[![Mail Badge](https://img.shields.io/badge/-Alecu_Gajos-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alecugajos1@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Alecu_Gajos-0e76a8?style=flat&labelColor=#E34F26&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alecu-gajos-1b8477232)
+[![Mail Badge](https://img.shields.io/badge/-Alecu_Gajos-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alecugajos1@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Alecu_Gajos-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem6evelev/)
 
 
 My Skills
