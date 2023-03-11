@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Gmail-message-green)
 
-[![Mail Badge](https://img.shields.io/badge/-Alecu_Gajos-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alecugajos1@gmail.com)[![Mail Badge](https://img.shields.io/badge/-Alecu_Gajos-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alecugajos1@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Alecu_Gajos-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alecugajos1@gmail.com)__[![Mail Badge](https://img.shields.io/badge/-Alecu_Gajos-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alecugajos1@gmail.com)
 
 ## I’m Alecu Gajos a Full Stack Web Developer.
 
