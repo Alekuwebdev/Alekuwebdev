@@ -1,6 +1,6 @@
 # Hi there <img src="https://user-images.githubusercontent.com/89197029/224481523-31e1a43b-3ad2-4826-9fb2-fc7accab8211.gif" width="28" alt="hi"> I'm Alecu.
 
-![icons8-secured-letter](https://user-images.githubusercontent.com/89197029/224484690-2cb3c4f1-eaa9-41c0-a184-80a6b63403e0.gif)
+
 
 ## I’m Alecu Gajos a Full Stack Web Developer.
 
@@ -50,7 +50,7 @@
   </summary>
   
   [<img src="https://user-images.githubusercontent.com/89197029/224483854-831178c9-465b-4cb8-93a9-df47d5f0f4f8.gif" width="48" alt="email">Email](https://www.linkedin.com/in/alecu-gajos-1b8477232)
-  
+  ![icons8-secured-letter](https://user-images.githubusercontent.com/89197029/224484690-2cb3c4f1-eaa9-41c0-a184-80a6b63403e0.gif)
 </details>
 
 <!-- Here are some ideas to get you started:
