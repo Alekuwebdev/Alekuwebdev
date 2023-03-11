@@ -1,7 +1,5 @@
 # Hi there <img src="https://user-images.githubusercontent.com/89197029/224481523-31e1a43b-3ad2-4826-9fb2-fc7accab8211.gif" width="28" alt="hi"> I'm Alecu.
 
-[![Mail Badge](https://img.shields.io/badge/-Alecu_Gajos-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alecugajos1@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Alecu_Gajos-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alecu-gajos-1b8477232)
-
 ## I’m Alecu Gajos a Full Stack Web Developer.
 
 <details>
@@ -43,8 +41,10 @@
 [Slider](https://alekuwebdev.github.io/Slider/)
   
 </details>
-  
 
+:mailbox: Reach me out!
+  
+[![Mail Badge](https://img.shields.io/badge/-Alecu_Gajos-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alecugajos1@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Alecu_Gajos-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alecu-gajos-1b8477232)
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
