@@ -47,7 +47,8 @@
   <summary>
     You can contact me
   </summary>
-  ![<img src="https://user-images.githubusercontent.com/89197029/224483854-831178c9-465b-4cb8-93a9-df47d5f0f4f8.gif" width="28" alt="email">]("hi")
+  
+  [<img src="https://user-images.githubusercontent.com/89197029/224483854-831178c9-465b-4cb8-93a9-df47d5f0f4f8.gif" width="28" alt="email">](https://www.linkedin.com/in/alecu-gajos-1b8477232)
 </details>
 
 <!-- Here are some ideas to get you started:
