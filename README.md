@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Gmail-message-green)
 
-[![Mail Badge](https://img.shields.io/badge/-ARTcodeSH-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHaFw66YuH5uOYzMVQhg-Pw/featured)
+[![Mail Badge](https://img.shields.io/badge/-ArtemShevelev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:artem6evelev92@gmail.com)
 
 ## I’m Alecu Gajos a Full Stack Web Developer.
 
