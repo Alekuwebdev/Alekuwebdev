@@ -49,6 +49,8 @@
     You can contact me
   </summary>
   
+[![Linkedin Badge](https://www.linkedin.com/in/alecu-gajos-1b8477232)
+  
 [<img src="https://user-images.githubusercontent.com/89197029/224483854-831178c9-465b-4cb8-93a9-df47d5f0f4f8.gif" width="28" alt="email">](https://www.linkedin.com/in/alecu-gajos-1b8477232)  [E-mail](https://www.linkedin.com/in/alecu-gajos-1b8477232)
   
 [<img src="https://user-images.githubusercontent.com/89197029/224485375-267f805c-3af9-4c5a-a1bc-436ad2d0d484.gif" width="28" alt="phone">](https://www.linkedin.com/in/alecu-gajos-1b8477232)  [Phone](https://www.linkedin.com/in/alecu-gajos-1b8477232)
