@@ -1,6 +1,6 @@
 # Hi there <img src="https://user-images.githubusercontent.com/89197029/224481523-31e1a43b-3ad2-4826-9fb2-fc7accab8211.gif" width="28" alt="hi"> I'm Alecu.
 
-![](https://img.shields.io/badge/LinkedIn-message-green)
+![](https://img.shields.io/badge/Gmail-message-green)
 
 ## I’m Alecu Gajos a Full Stack Web Developer.
 
