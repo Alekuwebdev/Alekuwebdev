@@ -1,4 +1,4 @@
-### Hi there <img src="https://user-images.githubusercontent.com/89197029/224481523-31e1a43b-3ad2-4826-9fb2-fc7accab8211.gif" width="28" alt="hi"> I'm Alecu.
+# Hi there <img src="https://user-images.githubusercontent.com/89197029/224481523-31e1a43b-3ad2-4826-9fb2-fc7accab8211.gif" width="28" alt="hi"> I'm Alecu.
 
 
 ## I’m Alecu Gajos a Full Stack Web Developer.
@@ -40,6 +40,14 @@
 [Cat and mouse](https://alekuwebdev.github.io/Cat-and-mouse/)
 
 [Slider](https://alekuwebdev.github.io/Slider/)
+  
+</details>
+
+<details>
+  <summary>
+    You can contact me
+  </summary>
+  <img src="![yes-hi](https://user-images.githubusercontent.com/89197029/224483854-831178c9-465b-4cb8-93a9-df47d5f0f4f8.gif)" width="28" alt="email">
 </details>
 
 <!-- Here are some ideas to get you started:
@@ -54,7 +62,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### You can contact me anytime here:
+<!-- ### You can contact me anytime here:
 
 [![Linkedin](img/LINKEDIN_ICON_TRANSPARENT_50.gif)](https://www.linkedin.com/in/alecu-gajos-1b8477232, "Alecu Gajos")
 ![](img/SocialsSmaller.gif)
@@ -81,6 +89,7 @@
 ![](img/figma.jpg)
 
 ![]()
+-->
 
 
 
