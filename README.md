@@ -58,46 +58,4 @@ My Skills:
 [![Express Badge](https://img.shields.io/badge/-Express-black?style=flat&labelColor=black&logo=Express&logoColor=#000000)]() [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-black?style=flat&labelColor=black&logo=MongoDB&logoColor=#47A248)]() [![Git Badge](https://img.shields.io/badge/-Git-black?style=flat&labelColor=black&logo=Git&logoColor=#F05032)]() [![Figma Badge](https://img.shields.io/badge/-Figma-black?style=flat&labelColor=black&logo=Figma&logoColor=#F24E1E)]() [![GIMP Badge](https://img.shields.io/badge/-GIMP-black?style=flat&labelColor=black&logo=GIMP&logoColor=#5C5543)]() [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&labelColor=black&logo=GitHub&logoColor=#181717)]()
 
 
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ### You can contact me anytime here:
-
-[![Linkedin](img/LINKEDIN_ICON_TRANSPARENT_50.gif)](https://www.linkedin.com/in/alecu-gajos-1b8477232, "Alecu Gajos")
-![](img/SocialsSmaller.gif)
-
-### Languages and Tools:
-
-![](img/visual-studio.jpg)
-
-![](img/html.jpg)
-![](img/CSS3.jpg.png)
-![](img/sass-logo.jpg)
-![](img/bootstrap.jpg)
-
-![](img/javascript.jpg)
-![](img/react.jpg)
-
-![](img/Node.js.jpg)
-![](img/express.jpg)
-![](img/Express.jpg)
-![](img/MongoDB.jpg)
-![](img/git.png)
-
-![](img/gimp.jpg)
-![](img/figma.jpg)
-
-
--->
-
-
 
