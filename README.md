@@ -48,7 +48,7 @@
   <summary>
     You can contact me
   </summary>
- [![Linkedin Badge](https://img.shields.io/badge/-ArtemShevelev-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem6evelev/) 
+
 
   
 [<img src="https://user-images.githubusercontent.com/89197029/224483854-831178c9-465b-4cb8-93a9-df47d5f0f4f8.gif" width="28" alt="email">](https://www.linkedin.com/in/alecu-gajos-1b8477232)  [E-mail](https://www.linkedin.com/in/alecu-gajos-1b8477232)
