@@ -1,7 +1,7 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/89197029/224481523-31e1a43b-3ad2-4826-9fb2-fc7accab8211.gif" width="28" alt="hi"> I'm Alecu.
 
 
-## I’m a Husband, Father and Junior Developer.
+## I’m Alecu Gajos a Full Stack Web Developer.
 
 **Alekuwebdev/Alekuwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
