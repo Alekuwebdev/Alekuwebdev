@@ -21,6 +21,8 @@
 [Victoria-Site](https://alekuwebdev.github.io/Victoria-Site/)
 
 [HIKING](https://alekuwebdev.github.io/HIKING/)
+  
+[Simple ToDo](https://alekuwebdevtodoapp.netlify.app/)
 
 <!-- [Web-dev-freelance](https://alekuwebdev.github.io/Web-dev-freelance/) -->
 
