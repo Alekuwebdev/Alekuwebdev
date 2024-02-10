@@ -63,7 +63,7 @@ My Skills:
 
 
 
-[![GIMP Badge](https://img.shields.io/badge/-GIMP-black?style=flat&labelColor=black&logo=GIMP&logoColor=#5C5543)]()
+[![GIMP Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]()
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" ></a>
 [![TYPO3](https://img.shields.io/badge/TYPO3-11-orange)](https://typo3.org/)
 
