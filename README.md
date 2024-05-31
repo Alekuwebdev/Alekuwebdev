@@ -7,7 +7,7 @@
     <h1>My projects</h1>
   </summary>
   
-[Travel](https://alekuwebdev.github.io/TravelBlog/)
+[Travel Blog](https://alekuwebdev.github.io/TravelBlog/)
 
 [Porfolio](https://statuesque-douhua-0efb45.netlify.app/)
   
