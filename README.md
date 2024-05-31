@@ -7,6 +7,7 @@
     <h1>My projects</h1>
   </summary>
   
+[Travel](https://alekuwebdev.github.io/TravelBlog/)
 
 [Porfolio](https://statuesque-douhua-0efb45.netlify.app/)
   
@@ -17,8 +18,6 @@
 [Recipies Project](https://clumsy-tiara-hen.cyclic.app/)
 
 [Firs Project](https://dciprojekt.netlify.app/)
-
-<!-- [Travel](https://alekuwebdev.github.io/Travel/) -->
 
 [Victoria-Site](https://alekuwebdev.github.io/Victoria-Site/)
 
