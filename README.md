@@ -65,8 +65,3 @@ My Skills:
 
 [![Express Badge](https://img.shields.io/badge/-Express-black?style=flat&labelColor=black&logo=Express&logoColor=#000000)]() [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-black?style=flat&labelColor=black&logo=MongoDB&logoColor=#47A248)]() [![Git Badge](https://img.shields.io/badge/-Git-black?style=flat&labelColor=black&logo=Git&logoColor=#F05032)]() [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]() [![TYPO3](https://img.shields.io/badge/TYPO3-11-orange)](https://typo3.org/) [![Figma Badge](https://img.shields.io/badge/-Figma-black?style=flat&labelColor=black&logo=Figma&logoColor=#F24E1E)]() [![GIMP Badge](https://img.shields.io/badge/-GIMP-black?style=flat&labelColor=black&logo=GIMP&logoColor=#5C5543)]()
 
-
-
-
-
-
