@@ -8,7 +8,6 @@
   </summary>
 
 [Photography](https://photographysiteblog.netlify.app/)  
-
 [Travel Blog](https://alekuwebdev.github.io/TravelBlog/)
 
 [Skydiving](https://skydivingschool.netlify.app/)
