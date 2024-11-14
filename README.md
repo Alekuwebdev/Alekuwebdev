@@ -14,6 +14,7 @@
 
 [Travel Blog](https://alekuwebdev.github.io/TravelBlog/)
 
+
 [Skydiving](https://skydivingschool.netlify.app/)
 
 [Firs Project](https://dciprojekt.netlify.app/)
