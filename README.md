@@ -3,6 +3,7 @@
 
 ### I’m Alecu Gajos a Full Stack Web Developer. I spend most of my time coding great projects, but I also don't forget to play a little sport.
 
+
 <details>
   <summary>
     <h1>My projects</h1>
