@@ -7,6 +7,7 @@
     <h1>My projects</h1>
   </summary>
 
+
 [Photography](https://photographysiteblog.netlify.app/)  
 
 [Travel Blog](https://alekuwebdev.github.io/TravelBlog/)
