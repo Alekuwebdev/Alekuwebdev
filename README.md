@@ -4,7 +4,7 @@
 
 <details>
   <summary>
-    <h1>My projects</h1>
+    <h1>Press it, and you will see some of my PROJECTS</h1>
   </summary>
 
 [Photography](https://photographysiteblog.netlify.app/)  
