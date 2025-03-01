@@ -23,30 +23,6 @@
 [Buttons](https://alekuwebdev.github.io/Buttons/)
 
 [Cat and mouse](https://alekuwebdev.github.io/Cat-and-mouse/)
-
- <!-- [Porfolio](https://statuesque-douhua-0efb45.netlify.app/) -->
-  
-<!-- [List of users PHP](http://phpuserlist.infinityfreeapp.com/index.php?i=1) -->
-
-<!-- [Auth_To_Do](https://bespoke-unicorn-c72030.netlify.app) -->
-
-<!-- [Recipies Project](https://clumsy-tiara-hen.cyclic.app/) -->
-
-<!-- [Victoria-Site](https://alekuwebdev.github.io/Victoria-Site/) -->
-
-<!-- [Web-dev-freelance](https://alekuwebdev.github.io/Web-dev-freelance/) -->
-
-<!-- [Sprite-Animation](https://alekuwebdev.github.io/Sprite-Animation/) -->
-
-<!-- [Penny-animation](https://alekuwebdev.github.io/Penny-animation/) -->
-
-<!-- [Ball-Animation](https://alekuwebdev.github.io/Ball-Animation/) -->
-
-<!-- [Animation-of-squares](https://alekuwebdev.github.io/Animation-of-squares/) -->
-
-<!-- [Carousel](https://alekuwebdev.github.io/Carousel/) -->
-
-<!-- [Slider](https://alekuwebdev.github.io/Slider/) -->
   
 </details>
 
