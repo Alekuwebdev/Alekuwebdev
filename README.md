@@ -32,8 +32,26 @@
     <h2>Discover the projects I've worked on by clicking here!</h2>
   </summary>
 
-[BNT-chemicals](https://www.bnt-chemicals.de/) 
-  
+[BNT-Chemicals](https://www.bnt-chemicals.de/)
+
+[IBU-Tec](https://www.ibu-tec.de/)
+
+[TRITUM](https://dreistrom.land/)
+
+[VPS](https://vps.epas.ch/)
+
+[NLD.de](https://www.nld.de/)
+
+[AOK](https://www.aok.de/pk/)
+
+[AOK-diabets](https://www.aok.de/pk/leistungen/online-programme/diabetes-coach/)
+
+[Familiencoach Kinderängste](https://kinderaengste.aok.de/)
+
+[Familiencoach Depression](https://depression.aok.de/)
+
+[Perinatalzentren](https://perinatalzentren.org/startseite/)
+
 </details>
 
 
