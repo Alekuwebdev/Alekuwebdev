@@ -2,30 +2,6 @@
 
 ### I’m Alecu Gajos a Full Stack Web Developer. I spend most of my time coding great projects, but I also don't forget to play a little sport.
 
-<details>
-  <summary>
-    <h2>Press it, and you will see some of my PROJECTS</h2>
-  </summary>
-
-[Photography](https://photographysiteblog.netlify.app/)  
-
-[Travel Blog](https://alekuwebdev.github.io/TravelBlog/)
-
-[Skydiving](https://skydivingschool.netlify.app/)
-
-[Firs Project](https://dciprojekt.netlify.app/)
- 
-[HIKING](https://alekuwebdev.github.io/HIKING/)
-
-[Simple ToDo](https://alekuwebdevtodoapp.netlify.app/)
-
-[Buttons](https://alekuwebdev.github.io/Buttons/)
-
-[Cat and mouse](https://alekuwebdev.github.io/Cat-and-mouse/)
-  
-</details>
-
-
 
 <details>
   <summary>
@@ -52,6 +28,30 @@
 
 [Perinatalzentren](https://perinatalzentren.org/startseite/)
 
+</details>
+
+
+<details>
+  <summary>
+    <h2>Here, you can explore my very FIRST PROJECTS—click to take a look!</h2>
+  </summary>
+
+[Photography](https://photographysiteblog.netlify.app/)  
+
+[Travel Blog](https://alekuwebdev.github.io/TravelBlog/)
+
+[Skydiving](https://skydivingschool.netlify.app/)
+
+[Firs Project](https://dciprojekt.netlify.app/)
+ 
+[HIKING](https://alekuwebdev.github.io/HIKING/)
+
+[Simple ToDo](https://alekuwebdevtodoapp.netlify.app/)
+
+[Buttons](https://alekuwebdev.github.io/Buttons/)
+
+[Cat and mouse](https://alekuwebdev.github.io/Cat-and-mouse/)
+  
 </details>
 
 
