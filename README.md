@@ -32,7 +32,7 @@
     <h2>Discover the projects I've worked on by clicking here!</h2>
   </summary>
 
-[bnt-chemicals]([https://photographysiteblog.netlify.app/](https://www.bnt-chemicals.de/))  
+[BNT-chemicals](https://www.bnt-chemicals.de/) 
   
 </details>
 
