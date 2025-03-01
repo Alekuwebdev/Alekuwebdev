@@ -4,7 +4,7 @@
 
 <details>
   <summary>
-    <h1>Press it, and you will see some of my PROJECTS</h1>
+    <h2>Press it, and you will see some of my PROJECTS</h2>
   </summary>
 
 [Photography](https://photographysiteblog.netlify.app/)  
@@ -24,6 +24,19 @@
 [Cat and mouse](https://alekuwebdev.github.io/Cat-and-mouse/)
   
 </details>
+
+
+
+<details>
+  <summary>
+    <h2>Discover the projects I've worked on by clicking here!</h2>
+  </summary>
+
+[bnt-chemicals]([https://photographysiteblog.netlify.app/](https://www.bnt-chemicals.de/))  
+  
+</details>
+
+
 
 :mailbox: You can contact me anytime here:
 
