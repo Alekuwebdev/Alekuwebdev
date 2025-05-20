@@ -2,7 +2,6 @@
 
 ### I’m Alecu Gajos a Full Stack Web Developer. I spend most of my time coding great projects, but I also don't forget to play a little sport.
 
-
 <details>
   <summary>
     <h2>Discover the projects I've worked on by clicking here!</h2>
