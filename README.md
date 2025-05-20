@@ -30,7 +30,6 @@
 
 </details>
 
-
 <details>
   <summary>
     <h2>Here, you can explore my very FIRST PROJECTS—click to take a look!</h2>
