@@ -26,10 +26,8 @@
 
 [Perinatalzentren](https://perinatalzentren.org/startseite/)
 
-<details>
-  <summary>
-    <h2>Here, you can explore my very FIRST PROJECTS—click to take a look!</h2>
-  </summary>
+
+<h2>Persönliche Projekte & Hobby-Projekte</h2>
 
 [Photography](https://photographysiteblog.netlify.app/)  
 
@@ -46,8 +44,6 @@
 [Buttons](https://alekuwebdev.github.io/Buttons/)
 
 [Cat and mouse](https://alekuwebdev.github.io/Cat-and-mouse/)
-  
-</details>
 
 
 
