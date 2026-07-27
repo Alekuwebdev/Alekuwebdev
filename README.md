@@ -39,11 +39,11 @@
  
 [HIKING](https://alekuwebdev.github.io/HIKING/)
 
-[Simple ToDo](https://alekuwebdevtodoapp.netlify.app/)
+<!-- [Simple ToDo](https://alekuwebdevtodoapp.netlify.app/)
 
 [Buttons](https://alekuwebdev.github.io/Buttons/)
 
-[Cat and mouse](https://alekuwebdev.github.io/Cat-and-mouse/)
+[Cat and mouse](https://alekuwebdev.github.io/Cat-and-mouse/) -->
 
 
 
