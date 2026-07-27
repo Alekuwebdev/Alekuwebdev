@@ -2,10 +2,9 @@
 
 ### I’m Alecu Gajos a Full Stack Web Developer. I spend most of my time coding great projects, but I also don't forget to play a little sport.
 
-<details>
-  <summary>
-    <h2>Discover the projects I've worked on by clicking here!</h2>
-  </summary>
+
+<h2>Key Projects from my Last Role</h2>
+
 
 [BNT-Chemicals](https://www.bnt-chemicals.de/)
 
@@ -26,8 +25,6 @@
 [Familiencoach Depression](https://depression.aok.de/)
 
 [Perinatalzentren](https://perinatalzentren.org/startseite/)
-
-</details>
 
 <details>
   <summary>
